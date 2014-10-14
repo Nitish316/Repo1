@@ -1,0 +1,13 @@
+{
+    "projects": [{ "hospital":"", "count": 10},
+        {"image":"tech2.png","id":2},
+        {"image":"tech3.jpg","id":3},
+        {"image":"tech4.png","id":4},
+        {"image":"tech5.png","id":5},
+        {"image":"tech6.png","id":6},
+        {"image":"tech7.png","id":7},
+        {"image":"tech8.jpg","id":8},
+        {"image":"tech9.jpg","id":9},
+        {"image":"tech10.jpg","id":10},
+        {"image":"tech11.png","id":11}]
+}
